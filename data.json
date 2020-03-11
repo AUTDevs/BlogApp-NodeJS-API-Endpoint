@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0",
+        "title": "0-bo'lim -> Dasturlash | Mantiqiy fikrlash",
+        "content": "0-bo'lim -> Dasturlash | Mantiqiy fikrlash  -  https://github.com/AUTDevs",
+        "post_image": "uploads/0.png",
+        "added_date": "1581461442206"
+    },
+    {
+        "id": "1",
+        "title": "1-bo'lim -> Python dasturlash tili",
+        "content": "Bu bo'limda Python dasturlash tili bo'yicha chuqur tushunchaga ega bo'lasiz va bir qancha to'liq imkoniyatga ega dasturlar yozasiz.",
+        "post_image": "uploads/1.png",
+        "added_date": "1581377760891"
+    },
+    {
+        "id": "2",
+        "title": "2-bo'lim -> Algoritmlash",
+        "content": "100 dan ortiq masalalarni yechishni o'rganib, minglab boshqa masalalarda keladigan patternlarni tushunib olasiz.",
+        "post_image": "uploads/2.png",
+        "added_date": "1581376324100"
+    },
+    {
+        "id": "3",
+        "title": "3-bo'lim -> Texnik suhbat uchun masalalar",
+        "content": "Texnik suhbatlarda ko'plab beriladigan har xil turdagi masalalarni yechishni o'rganib olasiz.",
+        "post_image": "uploads/3.png",
+        "added_date": "1581375207401"
+    }
+]
